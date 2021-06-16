@@ -60,24 +60,24 @@ projects:
 publications:
     title: Publications
     papers:
-        title: "Non-coding RNAs as Direct and Indirect Modulators of Epigenetic Regulation."
+      - title: "Non-coding RNAs as Direct and Indirect Modulators of Epigenetic Regulation."
         link: https://doi.org/10.1016/B978-0-08-100596-5.22710-8
         authors: Alfardus, H., Birds, I. 
         conference: Comprehensive Foodomics (2021)
 
-        title: "Long non-coding RNAs and Human Cancer. Comprehensive Foodomics"
+      - title: "Long non-coding RNAs and Human Cancer. Comprehensive Foodomics"
         link: https://doi.org/10.1016/B978-0-08-100596-5.22715-7
         authors: Alfardus, H., Birds, I. 
         conference: Comprehensive Foodomics (2021)
 
-        title: "LncRNAs interacting with the translation machinery contribute to human neuronal differentiation"
+      - title: "LncRNAs interacting with the translation machinery contribute to human neuronal differentiation"
         link: https://www.biorxiv.org/content/10.1101/2020.10.01.321919v2
         authors: Douka, K., Birds, I., Wang, D., Clayton, S., Byford, A., Vasconcelos, E.J.R., O’Connell, M.J, Deuchars, J., Whitehouse, A., Aspden, J.L.
         conference: bioRxiv (2020)
 
-        title: "Long non‐coding RNAs in development and disease: conservation to mechanisms"
+      - title: "Long non‐coding RNAs in development and disease: conservation to mechanisms"
         link: https://doi.org/10.1002/path.5405 
-        authors: Tsagakis, I., Douka, K., Birds, I. and Aspden, J.L.
+        authors: Tsagakis, I., Douka, K., <strong> Birds, I.</strong> and Aspden, J.L.
         conference: The Journal of Pathology (2020)
 
 
