@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Isabel Birds
     tagline: PhD Candidate
-    avatar: #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: isabel_profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: 
@@ -44,6 +44,7 @@ education:
       time: 2013 - 2018
       details: |
         1st class degree with Hons.
+  
 experiences:
     - role: Research Administrator
       time: 2015 - 2016
@@ -60,19 +61,19 @@ projects:
 publications:
     title: Publications
     papers:
-      - title: "Non-coding RNAs as Direct and Indirect Modulators of Epigenetic Regulation."
+      - title: "Non-coding RNAs as Direct and Indirect Modulators of Epigenetic Regulation"
         link: https://doi.org/10.1016/B978-0-08-100596-5.22710-8
-        authors: Alfardus, H., Birds, I. 
+        authors: Alfardus, H., <strong> Birds, I.</strong>
         conference: Comprehensive Foodomics (2021)
 
-      - title: "Long non-coding RNAs and Human Cancer. Comprehensive Foodomics"
+      - title: "Long non-coding RNAs and Human Cancer"
         link: https://doi.org/10.1016/B978-0-08-100596-5.22715-7
-        authors: Alfardus, H., Birds, I. 
+        authors: Alfardus, H., <strong> Birds, I.</strong> 
         conference: Comprehensive Foodomics (2021)
 
       - title: "LncRNAs interacting with the translation machinery contribute to human neuronal differentiation"
         link: https://www.biorxiv.org/content/10.1101/2020.10.01.321919v2
-        authors: Douka, K., Birds, I., Wang, D., Clayton, S., Byford, A., Vasconcelos, E.J.R., O’Connell, M.J, Deuchars, J., Whitehouse, A., Aspden, J.L.
+        authors: Douka, K.,<strong> Birds, I.</strong>, Wang, D., Clayton, S., Byford, A., Vasconcelos, E.J.R., O’Connell, M.J, Deuchars, J., Whitehouse, A., Aspden, J.L.
         conference: bioRxiv (2020)
 
       - title: "Long non‐coding RNAs in development and disease: conservation to mechanisms"
