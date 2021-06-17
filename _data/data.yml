@@ -22,7 +22,6 @@ sidebar:
 
     languages:
       - idiom: English
-        level: Native
       - idiom: R
       - idiom: HyperSQL
 
@@ -40,7 +39,7 @@ sidebar:
 
 education:
     - degree: PhD in Molecular and Cellular Biology
-      university: Faculty of Biological Sciences, University of Leeds.
+      university: Faculty of Biological Sciences, University of Leeds
       time: 2018 - Present
 
     - degree: MNatSci, BSc (Hons) with Industrial Experience
