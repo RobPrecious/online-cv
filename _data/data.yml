@@ -28,9 +28,8 @@ sidebar:
 
     interests:
       - item: Rugby League
-        link: https://www.luu.org.uk/clubs-and-societies/browse-clubs-and-societies/rugby-league-w/
+        link: https://www.thegryphon.co.uk/2018/11/09/in-a-league-of-their-own-university-of-leeds-womens-rugby/?fbclid=IwAR0tobWFB1-xeJWKTa6lWVqeynFVGwfoOTRR8N5MLxwpaNhauDxRjiUAMRs
       - item: Embroidery
-        link: https://www.instagram.com/birds_stitchin/ 
       - item: Inclusive and open research
 
 
@@ -38,6 +37,7 @@ sidebar:
  #   title: Career Profile
   #  summary: |
    #   Summarise your career.
+
 education:
     - degree: PhD in Molecular and Cellular Biology
       university: Faculty of Biological Sciences, University of Leeds.
@@ -64,27 +64,27 @@ research_experience:
       details: |
         Project: Dissecting the function and molecular evolution of long non-coding RNAs. 
 
-    - role: Masters Research Project
-      time: 2017 - 2018
-      company: University of Leeds 
-      supervisors: Dr Julie Aspden
-      details: |
-        Project: A computational analysis of the conservation of long non-coding RNA and dicistronic genes in Drosophila.
+#    - role: Masters Research Project
+#      company: University of Leeds 
+#      time: 2017 - 2018
+#      supervisors: Dr Julie Aspden
+#      details: |
+#        Project: A computational analysis of the conservation of long non-coding RNA and dicistronic genes in Drosophila.
 
-    - role: Summer Research Project 
-      time: 2017
-      company: University of Leeds 
-      supervisors: Dr Mary J O’Connell
-      details: |
-        Using a new in-house evolutionary and selective analysis pipeline (VESPA) 
-        to identify genes under positive selection in naked mole rats and other long-lived species. 
+#    - role: Summer Research Project 
+#      time: 2017
+#      company: University of Leeds 
+#      supervisors: Dr Mary J O’Connell
+#      details: |
+#        Using a new in-house evolutionary and selective analysis pipeline (VESPA) 
+#        to identify genes under positive selection in naked mole rats and other long-lived species. 
 
-    - role: Bachelors Research Project 
-      time: 2016 - 2017
-      company: University of Leeds 
-      supervisors: Dr Mary J O’Connell
-      details: |
-        Project: The fine balance of missing data, model specification and sampling when reconstructing a molecular phylogeny of the chordates.
+#    - role: Bachelors Research Project 
+#      time: 2016 - 2017
+#      company: University of Leeds 
+#      supervisors: Dr Mary J O’Connell
+#      details: |
+#        Project: The fine balance of missing data, model specification and sampling when reconstructing a molecular phylogeny of the chordates.
 
 
 work_experience:
@@ -107,7 +107,31 @@ projects:
     assignments:
       - title: Remote Computational Project Resource
         link: https://isabelbirds.github.io/Remote-Computational-Project-Resource/welcome.html
-        tagline: " "
+        tagline: An online resource created during the COVID-19 pandemic to support students transferred from wet to remote dry lab projects at short notice.
+
+outreach:
+    - name: Be Curious
+      link: https://www.youtube.com/watch?v=nGrtB-qp5jI&t=1s
+      time: 2020
+      details: |
+        Working as part of a team to create an educational, virtual activity. 
+        We prioritised accessibility and affordability. 
+
+    - name: Discovery Zone
+      time: 2018
+      details: |
+        Volunteering on the Athena Swan stand, working with school children to 
+        expand their idea of who can be a scientist.
+
+    - name: Life with Cancer
+      time: 2017
+      details: |
+        Volunteer at a patient event, facilitating discussion around 
+        sensitive topics in order to direct future research and initiatives.
+        
+awards:
+  - name: The University of Leeds Women’s Rugby League Club Colours
+  - name: The Andrew Cudbertson Shield for Contributions to University Rugby League
 
 publications:
     title: Publications
@@ -131,11 +155,6 @@ publications:
         link: https://doi.org/10.1002/path.5405 
         authors: Tsagakis, I., Douka, K., <strong> Birds, I.</strong> and Aspden, J.L.
         conference: The Journal of Pathology (2020)
-
-awards:
-  - name: The University of Leeds Women’s Rugby League Club Colours
-  - name: The Andrew Cudbertson Shield for Contributions to University Rugby League
-
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

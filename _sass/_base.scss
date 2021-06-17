@@ -222,7 +222,7 @@ p {
         color: $text-grey;
     }
     .company, .university {
-        margin-bottom: 0;
+        margin-bottom: 10px;
         color: $text-grey;
     }
     .supervisors {
@@ -244,6 +244,36 @@ p {
         .item {
             margin-bottom: 15px;
         }
+    }
+
+    .outreach-section {
+        .item {
+            margin-bottom: 30px;
+        }
+    }
+    .upper-row {
+        position: relative;
+        overflow: visible;
+        margin-bottom: 2px;
+    }
+    .project-title, .degree {
+        color: $text-color;
+        font-size: 16px;
+        margin-top: 0;
+        margin-bottom: 0;
+        font-weight: 500;
+    }
+    .time {
+        position: absolute;
+        right: 0;
+        top: 0;
+        color: $text-grey;
+    }
+
+    .award-name{
+        color: $text-color;
+        margin-top: 0;
+        margin-bottom: 5;
     }
 
     .publication-title {
@@ -286,12 +316,6 @@ p {
         height: 12px;
         background: lighten($theme-color, 15%);
     }
-}
-
-.award-name{
-    color: $text-color;
-    margin-top: 0;
-    margin-bottom: 5;
 }
 
 .footer {
