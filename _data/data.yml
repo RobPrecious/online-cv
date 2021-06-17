@@ -23,6 +23,8 @@ sidebar:
     languages:
       - idiom: English
         level: Native
+      - idiom: R
+      - idiom: HyperSQL
 
     interests:
       - item: Rugby League
@@ -30,6 +32,7 @@ sidebar:
       - item: Embroidery
         link: https://www.instagram.com/birds_stitchin/ 
       - item: Inclusive and open research
+
 
 #career-profile:
  #   title: Career Profile
@@ -45,18 +48,59 @@ education:
       time: 2013 - 2018
 
 research_experience:
-    - role: Research Administrator
-      time: 2015 - 2016
-      company: Yorkshire Cancer Research
+    - role: Data Analyst
+      time: Feb - Apr 2021
+      company: DECOVID
       details: |
-        Describe your role here
+        Project: [COVID-19 and Chronic Obstructive Pulmonary Disease](https://www.decovid.org/copy-of-the-rs-covid-study).
+        
+        Three month placement as part of the University of Leeds Team. 
+        DECOVID uses data from electronic patient records to answer clinically important questions related to COVID-19.   
+
+    - role: PhD Project 
+      time: 2018 – Present
+      company: University of Leeds 
+      supervisors: Dr Julie Aspden, Dr Mary J O’Connell, Professor David Westhead
+      details: |
+        Project: Dissecting the function and molecular evolution of long non-coding RNAs. 
+
+    - role: Masters Research Project
+      time: 2017 - 2018
+      company: University of Leeds 
+      supervisors: Dr Julie Aspden
+      details: |
+        Project: A computational analysis of the conservation of long non-coding RNA and dicistronic genes in Drosophila.
+
+    - role: Summer Research Project 
+      time: 2017
+      company: University of Leeds 
+      supervisors: Dr Mary J O’Connell
+      details: |
+        Using a new in-house evolutionary and selective analysis pipeline (VESPA) 
+        to identify genes under positive selection in naked mole rats and other long-lived species. 
+
+    - role: Bachelors Research Project 
+      time: 2016 - 2017
+      company: University of Leeds 
+      supervisors: Dr Mary J O’Connell
+      details: |
+        Project: The fine balance of missing data, model specification and sampling when reconstructing a molecular phylogeny of the chordates.
+
 
 work_experience:
     - role: Research Administrator
-      time: 2015 - 2016
+      time: July 2015 - Aug 2016
       company: Yorkshire Cancer Research
       details: |
-        Describe your role here
+        Industrial Placement as a Research Administrator, extended to include a summer placement. 
+        Returned for summer 2017 and 2018.
+        
+        Duties included:
+          * Maintaining financial scrutiny and forecasting the future 
+          spend of an £18.4 million awards portfolio.
+          * Preparing grant applications to outside funders.
+          * Creating patient facing leaflets. 
+          * Organising aspects of the charities annual funding round, including peer review. 
 
 projects:
     title: Projects
@@ -87,13 +131,6 @@ publications:
         link: https://doi.org/10.1002/path.5405 
         authors: Tsagakis, I., Douka, K., <strong> Birds, I.</strong> and Aspden, J.L.
         conference: The Journal of Pathology (2020)
-
-skills:
-    title: Skills
-
-    toolset:
-      - name: R
-        level: 
 
 awards:
   - name: The University of Leeds Women’s Rugby League Club Colours
