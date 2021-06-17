@@ -257,7 +257,13 @@ p {
 }
 
 
-
+.award-name{
+    color: $text-color;
+    font-size: 16px;
+    margin-top: 0;
+    margin-bottom: 5;
+    font-weight: 500;
+}
 
 .footer {
     padding-top: 30px;

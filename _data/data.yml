@@ -81,12 +81,15 @@ publications:
 
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills
 
     toolset:
       - name: R
         level: 
 
+awards:
+  - name: The University of Leeds Women’s Rugby League Club Colours
+  - name: The Andrew Cudbertson Shield for Contributions to University Rugby League
 
 
 footer: >
