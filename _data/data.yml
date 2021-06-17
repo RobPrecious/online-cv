@@ -19,7 +19,6 @@ sidebar:
     github: IsabelBirds
     twitter: '@IzBirds'
     orcid: 0000-0001-8173-3879
-    goodreads: 29849586-isabel
 
     languages:
       - idiom: English
@@ -29,16 +28,15 @@ sidebar:
       - item: Rugby League
         link: https://www.luu.org.uk/clubs-and-societies/browse-clubs-and-societies/rugby-league-w/
 
-career-profile:
-    title: Career Profile
-    summary: |
-      Summarise your career.
+#career-profile:
+ #   title: Career Profile
+  #  summary: |
+   #   Summarise your career.
 education:
     - degree: PhD in Molecular and Cellular Biology
       university: Faculty of Biological Sciences, University of Leeds.
       time: 2018 - Present
-      details: |
-        Describe your study here
+
     - degree: MNatSci, BSc with Industrial Experience
       university: Faculty of Mathematics and Physical Sciences, University of Leeds 
       time: 2013 - 2018

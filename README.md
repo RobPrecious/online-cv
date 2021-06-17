@@ -1,6 +1,6 @@
 # Hi!
 
-Find my extended CV here: https://isabelbirds.github.io/online-cv/ 
+Find my CV here: https://isabelbirds.github.io/online-cv/ 
 ## Credits
 
 Thanks to [Sharath Kumar](https://github.com/sharu725) for this awesome repo and Jekyll theme!
