@@ -27,6 +27,9 @@ sidebar:
     interests:
       - item: Rugby League
         link: https://www.luu.org.uk/clubs-and-societies/browse-clubs-and-societies/rugby-league-w/
+      - item: Embroidery
+        link: https://www.instagram.com/birds_stitchin/ 
+      - item: Inclusive and open research
 
 #career-profile:
  #   title: Career Profile
@@ -37,18 +40,24 @@ education:
       university: Faculty of Biological Sciences, University of Leeds.
       time: 2018 - Present
 
-    - degree: MNatSci, BSc with Industrial Experience
+    - degree: MNatSci, BSc (Hons) with Industrial Experience
       university: Faculty of Mathematics and Physical Sciences, University of Leeds 
       time: 2013 - 2018
-      details: |
-        1st class degree with Hons.
-  
-experiences:
+
+research_experience:
     - role: Research Administrator
       time: 2015 - 2016
       company: Yorkshire Cancer Research
       details: |
         Describe your role here
+
+work_experience:
+    - role: Research Administrator
+      time: 2015 - 2016
+      company: Yorkshire Cancer Research
+      details: |
+        Describe your role here
+
 projects:
     title: Projects
     assignments:
@@ -78,7 +87,6 @@ publications:
         link: https://doi.org/10.1002/path.5405 
         authors: Tsagakis, I., Douka, K., <strong> Birds, I.</strong> and Aspden, J.L.
         conference: The Journal of Pathology (2020)
-
 
 skills:
     title: Skills
