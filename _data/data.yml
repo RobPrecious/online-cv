@@ -12,7 +12,7 @@ sidebar:
     avatar: isabel_profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: 
+    email: isabeljbirds@gmail.com
     phone: 
     website: #do not add http://
     linkedin: isabel-birds-90ab05123
@@ -100,6 +100,35 @@ work_experience:
           * Preparing grant applications to outside funders.
           * Creating patient facing leaflets. 
           * Organising aspects of the charities annual funding round, including peer review. 
+
+teaching:
+    - role: Remote Masters Project Support
+      time: 2020 - 2021
+      details: |
+        Providing remote support for Masters students transferred from a 
+        wet to dry lab project during the Covid-19 pandemic. 
+        Featured in the biochemical society webinar series; [“How to deliver 
+        biomolecular science honours research projects with limited lab bench time”](https://www.youtube.com/watch?v=xxVuaEaGsGM&list=PLKzT3b3RHQwj3cHWHHMnVfNxQxJOPs2uG&index=10&t=658s).
+
+    - role: Computational class demonstrator
+      time: 2019 - 2021
+      details: |
+        Demonstrator for computational practical classes and courses, 
+        teaching undergraduates and post graduate researchers. 
+        Lead demonstrator for a computational practical class of 70 
+        students, and responsible for subsequent support and marking of assignments. 
+
+    - role: Masters Buddy Scheme Leader
+      time: 2019
+
+    - role: Superviser - Undergraduate Summer Student 
+      time: 2019
+
+    - role: Invigilator
+      time: 2018 - 2020
+
+    - role: Peer assisted learning mentor
+      time: 2014 - 2016
 
 projects:
     title: Projects
