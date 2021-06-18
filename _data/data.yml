@@ -42,7 +42,7 @@ education:
       university: Faculty of Biological Sciences, University of Leeds
       time: 2018 - Present
 
-    - degree: MNatSci, BSc (Hons) with Industrial Experience
+    - degree: MNatSci, BSc (1st, Hons) with Industrial Experience
       university: Faculty of Mathematics and Physical Sciences, University of Leeds 
       time: 2013 - 2018
 
@@ -120,13 +120,18 @@ teaching:
 
     - role: Masters Buddy Scheme Leader
       time: 2019
+      details: |
+       
 
-    - role: Superviser - Undergraduate Summer Student 
+    - role: Supervisor - Undergraduate Summer Student 
       time: 2019
+      details: |
+       
 
     - role: Invigilator
       time: 2018 - 2020
-
+      details: |
+       
     - role: Peer assisted learning mentor
       time: 2014 - 2016
 
