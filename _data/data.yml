@@ -21,9 +21,10 @@ sidebar:
     orcid: 0000-0001-8173-3879
 
     languages:
-      - idiom: English
       - idiom: R
       - idiom: HyperSQL
+      - idiom: Bash
+      - idiom: Python
 
     interests:
       - item: Rugby League
