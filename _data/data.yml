@@ -63,12 +63,12 @@ research_experience:
       details: |
         Project: Dissecting the function and molecular evolution of long non-coding RNAs. 
 
-#    - role: Masters Research Project
-#      company: University of Leeds 
-#      time: 2017 - 2018
-#      supervisors: Dr Julie Aspden
-#      details: |
-#        Project: A computational analysis of the conservation of long non-coding RNA and dicistronic genes in Drosophila.
+    - role: Masters Research Project
+      company: University of Leeds 
+      time: 2017 - 2018
+      supervisors: Dr Julie Aspden
+      details: |
+        Project: A computational analysis of the conservation of long non-coding RNA and dicistronic genes in Drosophila.
 
 #    - role: Summer Research Project 
 #      time: 2017
@@ -102,6 +102,14 @@ work_experience:
           * Organising aspects of the charities annual funding round, including peer review. 
 
 teaching:
+
+    - role: Instructor, Workshop on Ribosome Profiling
+      time: July 2021
+      details: |
+        Teaching on a two half-day course for PhD students and postdoctoral researchers.
+        Co-lead for beginners session on [analysis workflows and file formats](https://zenodo.org/record/5040212),
+        and facilitating round table discussions.
+
     - role: Remote Masters Project Support
       time: 2020 - 2021
       details: |
@@ -121,17 +129,15 @@ teaching:
     - role: Masters Buddy Scheme Leader
       time: 2019
       details: |
-       
 
     - role: Supervisor - Undergraduate Summer Student 
       time: 2019
       details: |
-       
 
     - role: Invigilator
       time: 2018 - 2020
       details: |
-       
+
     - role: Peer assisted learning mentor
       time: 2014 - 2016
 
@@ -169,6 +175,11 @@ awards:
 publications:
     title: Publications
     papers:
+      - title: "Cytoplasmic long non-coding RNAs are differentially regulated and translated during human neuronal differentiation"
+        link: https://rnajournal.cshlp.org/content/early/2021/06/30/rna.078782.121
+        authors: Douka, K.,<strong> Birds, I.</strong>, Wang, D., Kosteletos, A., Clayton, S., Byford, A., Vasconcelos, E.J.R., O’Connell, M.J, Deuchars, J., Whitehouse, A., Aspden, J.L.
+        conference: RNA journal (2021)
+
       - title: "Non-coding RNAs as Direct and Indirect Modulators of Epigenetic Regulation"
         link: https://doi.org/10.1016/B978-0-08-100596-5.22710-8
         authors: Alfardus, H., <strong> Birds, I.</strong>
@@ -178,11 +189,6 @@ publications:
         link: https://doi.org/10.1016/B978-0-08-100596-5.22715-7
         authors: Alfardus, H., <strong> Birds, I.</strong> 
         conference: Comprehensive Foodomics (2021)
-
-      - title: "LncRNAs interacting with the translation machinery contribute to human neuronal differentiation"
-        link: https://www.biorxiv.org/content/10.1101/2020.10.01.321919v2
-        authors: Douka, K.,<strong> Birds, I.</strong>, Wang, D., Clayton, S., Byford, A., Vasconcelos, E.J.R., O’Connell, M.J, Deuchars, J., Whitehouse, A., Aspden, J.L.
-        conference: bioRxiv (2020)
 
       - title: "Long non‐coding RNAs in development and disease: conservation to mechanisms"
         link: https://doi.org/10.1002/path.5405 
