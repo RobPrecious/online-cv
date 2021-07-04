@@ -52,7 +52,7 @@ research_experience:
       time: Feb - Apr 2021
       company: DECOVID
       details: |
-        Project: [COVID-19 and Chronic Obstructive Pulmonary Disease](https://www.decovid.org/copy-of-the-rs-covid-study).
+        Project: [COVID-19 and Chronic Obstructive Pulmonary Disease](https://www.decovid.org/copy-of-the-rs-covid-study){:target="_blank"}.
         
         Three month placement as part of the University of Leeds Team. 
         DECOVID uses data from electronic patient records to answer clinically important questions related to COVID-19.   
@@ -108,7 +108,7 @@ teaching:
       time: July 2021
       details: |
         Teaching on a two half-day course for PhD students and postdoctoral researchers.
-        Co-lead for beginners session on [analysis workflows and file formats](https://zenodo.org/record/5040212),
+        Co-lead for beginners session on [analysis workflows and file formats](https://zenodo.org/record/5040212){:target="_blank"},
         and facilitating round table discussions.
 
     - role: Remote Masters Project Support
@@ -117,7 +117,7 @@ teaching:
         Providing remote support for Masters students transferred from a 
         wet to dry lab project during the Covid-19 pandemic. 
         Featured in the biochemical society webinar series; [“How to deliver 
-        biomolecular science honours research projects with limited lab bench time”](https://www.youtube.com/watch?v=xxVuaEaGsGM&list=PLKzT3b3RHQwj3cHWHHMnVfNxQxJOPs2uG&index=10&t=658s).
+        biomolecular science honours research projects with limited lab bench time”](https://www.youtube.com/watch?v=xxVuaEaGsGM&list=PLKzT3b3RHQwj3cHWHHMnVfNxQxJOPs2uG&index=10&t=658s){:target="_blank"}.
 
     - role: Computational class demonstrator
       time: 2019 - 2021
