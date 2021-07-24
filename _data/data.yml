@@ -3,204 +3,141 @@
 #
 
 sidebar:
-    about: FALSE # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: FALSE # set to False if you want education in main section instead of in sidebar
+  about: FALSE # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: FALSE # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Isabel Birds
-    tagline: PhD Candidate
-    avatar: isabel_profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Robert Precious
+  tagline: Lead Accessibility Specialist
+  avatar: rob-profile.jpeg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    email: isabeljbirds@gmail.com
-    phone: 
-    website: #do not add http://
-    linkedin: isabel-birds-90ab05123
-    github: IsabelBirds
-    twitter: '@IzBirds'
-    orcid: 0000-0001-8173-3879
+  # Sidebar links
+  email: robert.precious@outlook.com
+  phone:
+  website: #do not add http://
+  linkedin: isabel-birds-90ab05123
+  github: RobPrecious
+  twitter: "@RobPreciousA11Y"
 
-    languages:
-      - idiom: R
-      - idiom: HyperSQL
-      - idiom: Bash
-      - idiom: Python
+  languages:
+    - idiom: React & Next.js
+    - idiom: TypeScript and JavaScript
+    - idiom: CSS, SCSS, JSS and Styled Components
+    - idiom: GraphQL and Relational Databases
 
-    interests:
-      - item: Rugby League
-        link: https://www.thegryphon.co.uk/2018/11/09/in-a-league-of-their-own-university-of-leeds-womens-rugby/?fbclid=IwAR0tobWFB1-xeJWKTa6lWVqeynFVGwfoOTRR8N5MLxwpaNhauDxRjiUAMRs
-      - item: Embroidery
-      - item: Inclusive and open research
+  skills:
+    - item: Leadership and Teamwork
+    - item: Public Speaking
+    - item: Communication
+    - item: Critical thinking and problem solving
+    - item: Accessibility Assessments WCAG
+    - item: Screen Readers – VoiceOver (iOS/Mac), JAWS and NVDA
 
+  interests:
+    - item: Climbing - Bouldering
+    - item: Tag Rugby
 
-#career-profile:
- #   title: Career Profile
-  #  summary: |
-   #   Summarise your career.
+  certifications:
+    - item: Certified Professional in Web Accessibility (WAS & CPACC), IAAP Feb 2020 – Feb 2023
 
+career-profile:
+  title: Profile
+  summary: |
+    A dedicated leader, certified accessibility professional and experienced software engineer. Takes a culture focused approach to accessibility, engaging and empowering others to create accessible products and drive organisational change.
+    Enjoys the challenge of designing and implementing complicated and powerful new features in a way that is accessible for all.
 education:
-    - degree: PhD in Molecular and Cellular Biology
-      university: Faculty of Biological Sciences, University of Leeds
-      time: 2018 - Present
-
-    - degree: MNatSci, BSc (1st, Hons) with Industrial Experience
-      university: Faculty of Mathematics and Physical Sciences, University of Leeds 
-      time: 2013 - 2018
-
-research_experience:
-    - role: Data Analyst
-      time: Feb - Apr 2021
-      company: DECOVID
-      details: |
-        Project: [COVID-19 and Chronic Obstructive Pulmonary Disease](https://www.decovid.org/copy-of-the-rs-covid-study){:target="_blank"}.
-        
-        Three month placement as part of the University of Leeds Team. 
-        DECOVID uses data from electronic patient records to answer clinically important questions related to COVID-19.   
-
-    - role: PhD Project 
-      time: 2018 – Present
-      company: University of Leeds 
-      supervisors: Dr Julie Aspden, Dr Mary J O’Connell, Professor David Westhead
-      details: |
-        Project: Dissecting the function and molecular evolution of long non-coding RNAs. 
-
-    - role: Masters Research Project
-      company: University of Leeds 
-      time: 2017 - 2018
-      supervisors: Dr Julie Aspden
-      details: |
-        Project: A computational analysis of the conservation of long non-coding RNA and dicistronic genes in Drosophila.
-
-#    - role: Summer Research Project 
-#      time: 2017
-#      company: University of Leeds 
-#      supervisors: Dr Mary J O’Connell
-#      details: |
-#        Using a new in-house evolutionary and selective analysis pipeline (VESPA) 
-#        to identify genes under positive selection in naked mole rats and other long-lived species. 
-
-#    - role: Bachelors Research Project 
-#      time: 2016 - 2017
-#      company: University of Leeds 
-#      supervisors: Dr Mary J O’Connell
-#      details: |
-#        Project: The fine balance of missing data, model specification and sampling when reconstructing a molecular phylogeny of the chordates.
-
+  - degree: Master of Computer Science
+    university: University of York, York
+    time: 2013 - 2018
+    details: Masters’ project concerned testing automated accessibility tools using mutation testing.
 
 work_experience:
-    - role: Research Administrator
-      time: July 2015 - Aug 2016
-      company: Yorkshire Cancer Research
-      details: |
-        Industrial Placement as a Research Administrator, extended to include a summer placement. 
-        Returned for summer 2017 and 2018.
-        
-        Duties included:
-          * Maintaining financial scrutiny and forecasting the future 
-          spend of an £18.4 million awards portfolio.
-          * Preparing grant applications to outside funders.
-          * Creating patient facing leaflets. 
-          * Organising aspects of the charities annual funding round, including peer review. 
+  - role: Lead Accessibility Specialist
+    time: July 2020 - Present
+    company: THG
+    details: |
+      * Created a refocused accessibility team focusing on organisational culture and services. 
+      * Innovating around services using technology to allow team to address platform wide accessibility issues at scale, including non-technical issues such as content creation.
 
-teaching:
+  - role: Software Engineer
+    time: June 2018 - June 2020
+    company: THG
+    details: |
+      * Migrating legacy checkout services over to React – 9 months
+      * Built a development team to address platform accessibility issues – 1 year
 
-    - role: Instructor, Workshop on Ribosome Profiling
-      time: July 2021
-      details: |
-        Teaching on a two half-day course for PhD students and postdoctoral researchers.
-        Co-lead for beginners session on [analysis workflows and file formats](https://zenodo.org/record/5040212){:target="_blank"},
-        and facilitating round table discussions.
+internships:
+  - role: Junior Developer
+    time: September 2017 – January 2018
+    company: The Distance, York
 
-    - role: Remote Masters Project Support
-      time: 2020 - 2021
-      details: |
-        Providing remote support for Masters students transferred from a 
-        wet to dry lab project during the Covid-19 pandemic. 
-        Featured in the biochemical society webinar series; [“How to deliver 
-        biomolecular science honours research projects with limited lab bench time”](https://www.youtube.com/watch?v=xxVuaEaGsGM&list=PLKzT3b3RHQwj3cHWHHMnVfNxQxJOPs2uG&index=10&t=658s){:target="_blank"}.
+  - role: Summer Placement R&D
+    time: June 2017 – August 2017
+    company: FinancialForce, Harrogate
 
-    - role: Computational class demonstrator
-      time: 2019 - 2021
-      details: |
-        Demonstrator for computational practical classes and courses, 
-        teaching undergraduates and post graduate researchers. 
-        Lead demonstrator for a computational practical class of 70 
-        students, and responsible for subsequent support and marking of assignments. 
-
-    - role: Masters Buddy Scheme Leader
-      time: 2019
-      details: |
-
-    - role: Supervisor - Undergraduate Summer Student 
-      time: 2019
-      details: |
-
-    - role: Invigilator
-      time: 2018 - 2020
-      details: |
-
-    - role: Peer assisted learning mentor
-      time: 2014 - 2016
+  - role: Industrial Placement Student
+    time: June 2015 – August 2016
+    company: Informed Solutions, Manchester
 
 projects:
-    title: Projects
-    assignments:
-      - title: Remote Computational Project Resource
-        link: https://isabelbirds.github.io/Remote-Computational-Project-Resource/welcome.html
-        tagline: An online resource created during the COVID-19 pandemic to support students transferred from wet to remote dry lab projects at short notice.
+  title: Projects
+  assignments:
+    - title: Remote Computational Project Resource
+      link: https://isabelbirds.github.io/Remote-Computational-Project-Resource/welcome.html
+      tagline: An online resource created during the COVID-19 pandemic to support students transferred from wet to remote dry lab projects at short notice.
 
 outreach:
-    - name: Be Curious
-      link: https://www.youtube.com/watch?v=FuCsl8N5Qn8
-      time: 2021
-      details: |
-        Moderator at live online shows at the University of Leeds annual research open event.
-        
-    - name: Be Curious
-      link: https://www.youtube.com/watch?v=nGrtB-qp5jI&t=1s
-      time: 2020
-      details: |
-        Working as part of a team to create an educational, virtual activity. 
-        We prioritised accessibility and affordability. 
+  - name: Be Curious
+    link: https://www.youtube.com/watch?v=FuCsl8N5Qn8
+    time: 2021
+    details: |
+      Moderator at live online shows at the University of Leeds annual research open event.
 
-    - name: Discovery Zone
-      time: 2018
-      details: |
-        Volunteering on the Athena Swan stand, working with school children to 
-        expand their idea of who can be a scientist.
+  - name: Be Curious
+    link: https://www.youtube.com/watch?v=nGrtB-qp5jI&t=1s
+    time: 2020
+    details: |
+      Working as part of a team to create an educational, virtual activity. 
+      We prioritised accessibility and affordability.
 
-    - name: Life with Cancer
-      time: 2017
-      details: |
-        Volunteer at a patient event, facilitating discussion around 
-        sensitive topics in order to direct future research and initiatives.
-        
+  - name: Discovery Zone
+    time: 2018
+    details: |
+      Volunteering on the Athena Swan stand, working with school children to 
+      expand their idea of who can be a scientist.
+
+  - name: Life with Cancer
+    time: 2017
+    details: |
+      Volunteer at a patient event, facilitating discussion around 
+      sensitive topics in order to direct future research and initiatives.
+
 awards:
   - name: The University of Leeds Women’s Rugby League Club Colours
   - name: The Andrew Cudbertson Shield for Contributions to University Rugby League
 
 publications:
-    title: Publications
-    papers:
-      - title: "Cytoplasmic long non-coding RNAs are differentially regulated and translated during human neuronal differentiation"
-        link: https://rnajournal.cshlp.org/content/early/2021/06/30/rna.078782.121
-        authors: Douka, K.,<strong> Birds, I.</strong>, Wang, D., Kosteletos, A., Clayton, S., Byford, A., Vasconcelos, E.J.R., O’Connell, M.J, Deuchars, J., Whitehouse, A., Aspden, J.L.
-        conference: RNA journal (2021)
+  title: Publications
+  papers:
+    - title: "Cytoplasmic long non-coding RNAs are differentially regulated and translated during human neuronal differentiation"
+      link: https://rnajournal.cshlp.org/content/early/2021/06/30/rna.078782.121
+      authors: Douka, K.,<strong> Birds, I.</strong>, Wang, D., Kosteletos, A., Clayton, S., Byford, A., Vasconcelos, E.J.R., O’Connell, M.J, Deuchars, J., Whitehouse, A., Aspden, J.L.
+      conference: RNA journal (2021)
 
-      - title: "Non-coding RNAs as Direct and Indirect Modulators of Epigenetic Regulation"
-        link: https://doi.org/10.1016/B978-0-08-100596-5.22710-8
-        authors: Alfardus, H., <strong> Birds, I.</strong>
-        conference: Comprehensive Foodomics (2021)
+    - title: "Non-coding RNAs as Direct and Indirect Modulators of Epigenetic Regulation"
+      link: https://doi.org/10.1016/B978-0-08-100596-5.22710-8
+      authors: Alfardus, H., <strong> Birds, I.</strong>
+      conference: Comprehensive Foodomics (2021)
 
-      - title: "Long non-coding RNAs and Human Cancer"
-        link: https://doi.org/10.1016/B978-0-08-100596-5.22715-7
-        authors: Alfardus, H., <strong> Birds, I.</strong> 
-        conference: Comprehensive Foodomics (2021)
+    - title: "Long non-coding RNAs and Human Cancer"
+      link: https://doi.org/10.1016/B978-0-08-100596-5.22715-7
+      authors: Alfardus, H., <strong> Birds, I.</strong>
+      conference: Comprehensive Foodomics (2021)
 
-      - title: "Long non‐coding RNAs in development and disease: conservation to mechanisms"
-        link: https://doi.org/10.1002/path.5405 
-        authors: Tsagakis, I., Douka, K., <strong> Birds, I.</strong> and Aspden, J.L.
-        conference: The Journal of Pathology (2020)
+    - title: "Long non‐coding RNAs in development and disease: conservation to mechanisms"
+      link: https://doi.org/10.1002/path.5405
+      authors: Tsagakis, I., Douka, K., <strong> Birds, I.</strong> and Aspden, J.L.
+      conference: The Journal of Pathology (2020)
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
