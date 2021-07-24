@@ -15,7 +15,7 @@ sidebar:
   email: robert.precious@outlook.com
   phone:
   website: #do not add http://
-  linkedin: isabel-birds-90ab05123
+  linkedin: robert-precious-2159b195
   github: RobPrecious
   twitter: "@RobPreciousA11Y"
 
@@ -78,66 +78,6 @@ internships:
   - role: Industrial Placement Student
     time: June 2015 – August 2016
     company: Informed Solutions, Manchester
-
-projects:
-  title: Projects
-  assignments:
-    - title: Remote Computational Project Resource
-      link: https://isabelbirds.github.io/Remote-Computational-Project-Resource/welcome.html
-      tagline: An online resource created during the COVID-19 pandemic to support students transferred from wet to remote dry lab projects at short notice.
-
-outreach:
-  - name: Be Curious
-    link: https://www.youtube.com/watch?v=FuCsl8N5Qn8
-    time: 2021
-    details: |
-      Moderator at live online shows at the University of Leeds annual research open event.
-
-  - name: Be Curious
-    link: https://www.youtube.com/watch?v=nGrtB-qp5jI&t=1s
-    time: 2020
-    details: |
-      Working as part of a team to create an educational, virtual activity. 
-      We prioritised accessibility and affordability.
-
-  - name: Discovery Zone
-    time: 2018
-    details: |
-      Volunteering on the Athena Swan stand, working with school children to 
-      expand their idea of who can be a scientist.
-
-  - name: Life with Cancer
-    time: 2017
-    details: |
-      Volunteer at a patient event, facilitating discussion around 
-      sensitive topics in order to direct future research and initiatives.
-
-awards:
-  - name: The University of Leeds Women’s Rugby League Club Colours
-  - name: The Andrew Cudbertson Shield for Contributions to University Rugby League
-
-publications:
-  title: Publications
-  papers:
-    - title: "Cytoplasmic long non-coding RNAs are differentially regulated and translated during human neuronal differentiation"
-      link: https://rnajournal.cshlp.org/content/early/2021/06/30/rna.078782.121
-      authors: Douka, K.,<strong> Birds, I.</strong>, Wang, D., Kosteletos, A., Clayton, S., Byford, A., Vasconcelos, E.J.R., O’Connell, M.J, Deuchars, J., Whitehouse, A., Aspden, J.L.
-      conference: RNA journal (2021)
-
-    - title: "Non-coding RNAs as Direct and Indirect Modulators of Epigenetic Regulation"
-      link: https://doi.org/10.1016/B978-0-08-100596-5.22710-8
-      authors: Alfardus, H., <strong> Birds, I.</strong>
-      conference: Comprehensive Foodomics (2021)
-
-    - title: "Long non-coding RNAs and Human Cancer"
-      link: https://doi.org/10.1016/B978-0-08-100596-5.22715-7
-      authors: Alfardus, H., <strong> Birds, I.</strong>
-      conference: Comprehensive Foodomics (2021)
-
-    - title: "Long non‐coding RNAs in development and disease: conservation to mechanisms"
-      link: https://doi.org/10.1002/path.5405
-      authors: Tsagakis, I., Douka, K., <strong> Birds, I.</strong> and Aspden, J.L.
-      conference: The Journal of Pathology (2020)
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
