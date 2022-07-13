@@ -52,8 +52,15 @@ education:
     details: Masters’ project concerned testing automated accessibility tools using mutation testing.
 
 work_experience:
+ - role: Senior Software Engineer
+    time: Jan 2022 - Present
+    company: BRYTER
+    details: |
+      * Drove a 6 month accessibility remediation project on the end user application at BRYTER. Including initial audit, general accessibility improvements and replacing inaccessible library components including multi-select and datepicker.
+      * Provided accessibility support for Design and Engineers on their own projects
+      
   - role: Lead Accessibility Specialist
-    time: July 2020 - Present
+    time: July 2020 - Dec 2021
     company: THG
     details: |
       * Created a refocused accessibility team focusing on organisational culture and services. 
